@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello everybody, Giovanni Ciandrini is here 👋
 
 - 🔭 I’m currently working as Web Developer and Engineer @ Fastcode SPA (FC-Italy)
 - 🌱 I’m currently learning : .Net Web Development / Javascript / UI-UX Design principles 
