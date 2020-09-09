@@ -1,6 +1,6 @@
 ### Hello everybody 👋
 
-- 🔭 I’m currently working as Web Developer and Engineer
+- 🔭 I’m currently working as Web Developer and Engineer @websolutespa (Italy)
 - 🌱 I’m currently learning : Web Development (dotNet-Javascript) / UI-UX Design principles / BCI
 - 👯 I’m looking to collaborate on: Web/ UX-UI / WebXR / VR / Brain Computer Interfaces
 - 📫 How to reach me: gciandrini@gmail.com 
